@@ -1,6 +1,6 @@
 # 💻 Toast Notification Animada com Tailwind CSS
 
-Mini projeto com uma toast notification animada desenvolvida com Tailwind CSS. Neste mini projeto, exploro uma notificação flutuante elegante e interativa que chama a atenção do usuário de forma sutil e eficaz.
+Uma toast notification animada desenvolvida com Tailwind CSS. Neste mini projeto, exploro uma notificação flutuante elegante e interativa que chama a atenção do usuário de forma sutil e eficaz.
 
 ## 🔨 Requisitos
 - Criar um botão "Mostrar notificação".
