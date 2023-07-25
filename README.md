@@ -19,4 +19,4 @@ Sugestão de design no Figma.
 ![image](https://github.com/codante-io/mp-toast-notification-tailwind/assets/6475893/6122446f-5adc-4463-ba84-77a262548e09)
 
 ## Deploy do Toast Notification
-Clique nesse link para ver a aplicação: https://mp-toast-notification-tailwind-git-respo-dde22d-willianmenezess.vercel.app/
+Clique nesse link para ver a aplicação: https://mp-toast-notification-tailwind-oa2wying2-willianmenezess.vercel.app/
